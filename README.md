@@ -8,7 +8,7 @@ I am adept with
 
 **Java**
 
-**Assembly**
+**MIPS Assembly**
 
 **C++**
 
